@@ -1,0 +1,9 @@
+{
+  "api": "1.0.0",
+  "editorType": [
+    "figma"
+  ],
+  "id": "fix-min-width",
+  "name": "Fix Min Width",
+  "main": "build/main.js"
+}
